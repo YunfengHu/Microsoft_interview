@@ -1,0 +1,15 @@
+# Mac system files
+.DS_Store
+
+# Data files
+*.csv
+*.pdf
+*.json
+
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Optional: images (if you don't want them)
+*.jpg
+*.png
